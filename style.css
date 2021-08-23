@@ -5,3 +5,32 @@
     font-size: 50px;
     font-weight: 700;
 }
+
+.title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 35px;
+    color: green;
+    margin: 25px;
+}
+
+.timer__section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.formDate {
+    margin: 25px;
+}
+
+.btn {
+    cursor: pointer;
+    background-color: green;
+    border-radius: 10px;
+    padding: 10px 20px;
+    outline: none;
+    border: 2px solid grey;
+    font-family: sans-serif;
+}
